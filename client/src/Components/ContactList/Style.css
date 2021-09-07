@@ -1,0 +1,32 @@
+/* contact-list start in css */
+
+.contact-list{
+    background: white;
+    width: 100%;
+}
+.contact-list .list-data{
+    text-align: initial;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact-list .list-data .content-item{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+}
+.contact-list .list-data .content-item img{
+    border-radius: 50%;
+}
+.contact-list .list-data .content-item .content{
+    padding-left: 15px;
+}
+.contact-list .list-data h4{
+    margin: 0px;
+    padding: 2px 0px;
+}
+.contact-list .list-data p{
+    color: gray;
+    margin: 0px;
+}

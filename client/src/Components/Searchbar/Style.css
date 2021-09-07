@@ -1,0 +1,20 @@
+/* SearchBar start in css */
+
+.search-bar{
+    position: relative;
+    padding: 10px 0px;
+}
+.search-bar input{
+    padding: 12px 55px;
+    width: 68%;
+    margin: 0 auto;
+    border-radius: 3px;
+    border-color: #ccc;
+    outline: none;
+}
+.search-bar svg{
+    position: absolute;
+    left: 48px;
+    top: 20px;
+    cursor: pointer;
+}

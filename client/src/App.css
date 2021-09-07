@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background: #000;
+  padding: 100px;
+}
+
+.App .main{
+    text-align: center;
+    width: 100%;
+    max-width: 450px;
+    height: 80vh;
+    margin: 0 auto;
+    background: lightgrey;
+}
